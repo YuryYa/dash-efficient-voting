@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 
-k = 1000
-m = 500
+k = 15
+m = 10
 n = m + k
 
 proposalScore = [0, 0.5, 1]
